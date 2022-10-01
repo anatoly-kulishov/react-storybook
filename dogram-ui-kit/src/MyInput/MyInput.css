@@ -1,0 +1,12 @@
+.my-input {
+    padding: 5px 10px;
+}
+
+.big-input {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.my-label-for-input {
+    margin-right: 5px;
+}
